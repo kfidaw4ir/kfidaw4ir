@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### I don't code much so...
 <!--
 **kfidaw4ir/kfidaw4ir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
